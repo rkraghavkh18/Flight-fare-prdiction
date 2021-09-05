@@ -4,6 +4,7 @@
   * [Demo](#demo)
   * [Overview](#overview)
   * [Installation](#installation)
+  * [Dataset](#dataset)
   * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
   * [Future scope of project](#future-scope)
@@ -24,6 +25,9 @@ The Code is written in Python 3.8.8. If you don't have Python installed you can 
 ```bash
 pip install -r requirements.txt
 ```
+
+## Dataset
+Link for the dataset you can find [here](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh/) .
 
 ## Deployement on Heroku
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
